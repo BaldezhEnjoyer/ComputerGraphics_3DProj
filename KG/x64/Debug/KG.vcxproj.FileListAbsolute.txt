@@ -1,0 +1,16 @@
+E:\Visual Studio\KG\KG\x64\Debug\KG.vcxproj.AssemblyReference.cache
+E:\Visual Studio\KG\KG\x64\Debug\KG.vcxproj.SuggestedBindingRedirects.cache
+E:\Visual Studio\KG\KG\x64\Debug\KG.MyForm.resources
+E:\Visual Studio\KG\KG\x64\Debug\KG.vcxproj.GenerateResource.cache
+E:\Downloads\task_3_Vasilenko\KG\x64\Debug\KG.vcxproj.AssemblyReference.cache
+E:\Downloads\task_3_Vasilenko\KG\x64\Debug\KG.vcxproj.SuggestedBindingRedirects.cache
+E:\Downloads\task_3_Vasilenko\KG\x64\Debug\KG.MyForm.resources
+E:\Downloads\task_3_Vasilenko\KG\x64\Debug\KG.vcxproj.GenerateResource.cache
+E:\Downloads\task_4_Vasilenko\KG\x64\Debug\KG.vcxproj.AssemblyReference.cache
+E:\Downloads\task_4_Vasilenko\KG\x64\Debug\KG.vcxproj.SuggestedBindingRedirects.cache
+E:\Downloads\task_4_Vasilenko\KG\x64\Debug\KG.MyForm.resources
+E:\Downloads\task_4_Vasilenko\KG\x64\Debug\KG.vcxproj.GenerateResource.cache
+E:\различные работы\КГ\task_6_Vasilenko\KG\x64\Debug\KG.vcxproj.AssemblyReference.cache
+E:\различные работы\КГ\task_6_Vasilenko\KG\x64\Debug\KG.vcxproj.SuggestedBindingRedirects.cache
+E:\различные работы\КГ\task_6_Vasilenko\KG\x64\Debug\KG.MyForm.resources
+E:\различные работы\КГ\task_6_Vasilenko\KG\x64\Debug\KG.vcxproj.GenerateResource.cache
